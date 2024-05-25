@@ -2,21 +2,21 @@
 
 - Language
   - `Object` e
-  - `Function`e
-  - `Boolean`e
-  - `Number`e
-  - `BigInt`e
-  - `String`e
-  - `Symbol`e
-  - `Infinity`e
-  - `NaN`e
-  - `undefined`e
-  - `null`e
-  - `this`e
-  - `instanceof`e
-  - `...spread`k
-  - `...rest`h
-  - `typeof`u
+  - `Function` e
+  - `Boolean` e
+  - `Number` e
+  - `BigInt` e
+  - `String` e
+  - `Symbol` e
+  - `Infinity` e
+  - `NaN` e
+  - `undefined` e
+  - `null` e
+  - `this` e
+  - `instanceof` e
+  - `...spread` k
+  - `...rest` h
+  - `typeof` u
   - Destructuring k
   - Generators u
   - Iterators u
